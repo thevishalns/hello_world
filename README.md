@@ -1,4 +1,5 @@
 hello_world
 ===========
 
-My first github repo
+My first github repository
+First step towards learning github.
